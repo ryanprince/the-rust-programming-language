@@ -1,0 +1,5 @@
+# Cargo build outputs
+**/target
+
+# macOS
+.DS_Store
